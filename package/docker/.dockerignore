@@ -1,0 +1,10 @@
+*.md
+docs
+.mypy_cache
+.pytest_cache
+.ruff_cache
+**/*.pyc
+**/__pycache__
+htmlcov
+.DS_Store
+.lock
